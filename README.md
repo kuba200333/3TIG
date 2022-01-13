@@ -1,7 +1,7 @@
 PHP
 1. Struktura języka PHP
 
-#Komentarze
+Komentarze
 /*Komentarz składający się z wielu wierszy
 */
 #Komentarz jednowierszowy
